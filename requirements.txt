@@ -1,0 +1,14 @@
+langchain==0.3.27
+langchain-community==0.3.27
+langchain-huggingface==0.3.1
+langchain-openai==0.3.27
+chromadb==0.5.23
+sentence-transformers==3.3.1
+rank-bm25==0.2.2
+pypdf==5.1.0
+pdfplumber==0.11.5
+streamlit==1.41.1
+python-dotenv==1.0.1
+faiss-cpu==1.15.1
+tiktoken==0.8.0
+numpy==2.1.3
